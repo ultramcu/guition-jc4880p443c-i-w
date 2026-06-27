@@ -5,6 +5,15 @@ Hard-won notes for the **Guition JC4880P443C_I_W** 4.3″ touch display board
 4.3″ **ST7701S** 480×800 MIPI-DSI panel, **GT911** I²C touch, **ES8311** audio,
 microSD, 16 MB flash / 32 MB PSRAM.
 
+## 📦 Vendor SDK / full board package
+
+Guition's official download — demo code, drivers, datasheets, schematic, and
+flashing tools for the JC4880P443C_I_W (~385 MB, 8-shard streamed download):
+
+**<https://pan.jczn1688.com/directlink/1/HMI%20display/JC4880P443C_I_W.zip>**
+
+(The `schematic/` sheets in this repo were extracted from it.)
+
 The board ships with almost no English documentation, and three things bite
 everyone who tries to use it outside the vendor's pre-built firmware:
 
